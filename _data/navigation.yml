@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Projects"
+    url: /project/    
+  # - title: "Resume"
+  #   url: /resume/
+  - title: "Posts"
+    url: /year-archive/
+  - title: "More"
+    url: /more/
+  # - title: "Sitemap"
+  #   url: /sitemap/
